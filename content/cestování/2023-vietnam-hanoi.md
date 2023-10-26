@@ -9,3 +9,4 @@ Status: draft
 Lang: cs
 Category: Cestování
 
+Øízení - není neobvyklé, že se s vámi vedle jedoucí motorka na dálnici zaène bavit
